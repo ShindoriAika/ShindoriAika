@@ -12,8 +12,8 @@ I'm a passionate engineer, enthusiastic about skill. Currently, I work as an eng
 
 ## 🌱 Status
 <p align="left">
-  <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanakaAika&layout=compact" alt="TanakaAika" />
-  <img height="144rem" src="https://github-readme-streak-stats.herokuapp.com/?user=TanakaAika" alt="TanakaAika" />
+  <img height="144rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShindoriAika&layout=compact" alt="ShindoriAika" />
+  <img height="144rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ShindoriAika" alt="ShindoriAika" />
 </p>
 
 Thanks for checking out my profile! 😄
